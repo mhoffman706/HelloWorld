@@ -11,6 +11,6 @@ def Pressed():  # function
 
 root = Tk()  # main window
 button = Button(root, text='Print in Console', command=Pressed)
-button.pack(pady=20, padx=20)
+button.pack(pady=50, padx=50)
 Pressed()
 root.mainloop()
