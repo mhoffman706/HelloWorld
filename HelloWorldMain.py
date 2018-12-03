@@ -6,7 +6,7 @@ from tkinter import *           # Importing the Tkinter (tool box) library
 
 
 def Pressed():  # function
-    print buttons are cool'
+    print ("buttons are cool")
 
 
 root = Tk()  # main window
